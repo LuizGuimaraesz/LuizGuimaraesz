@@ -1,10 +1,10 @@
-# Olá, eu sou o Luiz! 👋
+# Olá, eu sou o Luiz! 
 
-🎓 Estudante de **Engenharia de Software no Inatel**.
+Estudante de **Engenharia de Software no Inatel**.
 
-💻 Focado em **desenvolvimento backend e fullstack**, com experiência na construção de APIs REST, autenticação, bancos de dados relacionais e interfaces web.
+Focado em **desenvolvimento backend e fullstack**, com experiência na construção de APIs REST, autenticação, bancos de dados relacionais e interfaces web.
 
-🚀 Buscando aprimorar meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e testes automatizados.
+Buscando aprimorar meus conhecimentos em arquitetura de software, boas práticas de desenvolvimento e testes automatizados.
 
 ---
 
@@ -45,7 +45,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
